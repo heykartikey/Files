@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TopAppBar" parent="Widget.MaterialComponents.AppBarLayout.Surface" />
+
+    <style name="ButtonShapeRound">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">48dp</item>
+    </style>
+
+    <style name="RoundButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="shapeAppearance">@style/ButtonShapeRound</item>
+        <item name="iconTint">?colorControlNormal</item>
+        <item name="iconSize">24dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="rippleColor">@color/rippleColor</item>
+    </style>
+
+    <style name="SectionTitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingVertical">14dp</item>
+        <item name="android:paddingHorizontal">16dp</item>
+    </style>
+
+    <style name="CollectionItemTitle">
+        <item name="android:textAppearance">?textAppearanceSubtitle1</item>
+        <item name="android:textColor">?colorOnSurface</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+</resources>

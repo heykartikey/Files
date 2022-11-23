@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bn_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_browse"
+        android:title="Browse" />
+    <item
+        android:id="@+id/bn_storage_overview"
+        android:enabled="true"
+        android:icon="@drawable/ic_storage_overview"
+        android:title="Storage" />
+</menu>

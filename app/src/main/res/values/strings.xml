@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="search">Search</string>
+    <string name="trash">Trash</string>
+    <string name="settings">Settings</string>
+    <string name="clean_header">Clean</string>
+    <string name="clear">Clear</string>
+    <string name="hello_blank_fragment">Blank</string>
+    <string name="categories_title">Categories</string>
+    <string name="collections_title">Collections</string>
+    <string name="favorites">Favorites</string>
+    <string name="safe_folder">Safe folder</string>
+    <string name="title_activity_category_tabbed">CategoryTabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="storage_devices">Storage Devices</string>
+</resources>
